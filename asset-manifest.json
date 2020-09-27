@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cravings/static/css/main.8f9257d1.chunk.css",
+    "main.js": "/cravings/static/js/main.0aa8826c.chunk.js",
+    "main.js.map": "/cravings/static/js/main.0aa8826c.chunk.js.map",
+    "runtime-main.js": "/cravings/static/js/runtime-main.cc267968.js",
+    "runtime-main.js.map": "/cravings/static/js/runtime-main.cc267968.js.map",
+    "static/js/2.a989d74c.chunk.js": "/cravings/static/js/2.a989d74c.chunk.js",
+    "static/js/2.a989d74c.chunk.js.map": "/cravings/static/js/2.a989d74c.chunk.js.map",
+    "index.html": "/cravings/index.html",
+    "precache-manifest.4b6fa25df21f98c0dec6ea476c4eace6.js": "/cravings/precache-manifest.4b6fa25df21f98c0dec6ea476c4eace6.js",
+    "service-worker.js": "/cravings/service-worker.js",
+    "static/css/main.8f9257d1.chunk.css.map": "/cravings/static/css/main.8f9257d1.chunk.css.map",
+    "static/js/2.a989d74c.chunk.js.LICENSE.txt": "/cravings/static/js/2.a989d74c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc267968.js",
+    "static/js/2.a989d74c.chunk.js",
+    "static/css/main.8f9257d1.chunk.css",
+    "static/js/main.0aa8826c.chunk.js"
+  ]
+}
